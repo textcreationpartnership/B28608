@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Querical demonstrations, writ by Prince Butler, author of the eleven queries relating to the bill for prohibiting East-India silks and printed callicoes.</title>
+            <author>Butler, Prince.</author>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B28608</idno><idno type="EEBO-CITATION">99885957</idno>
+  <idno type="VID">186327</idno>
+  <idno type="EEBO-PROQUEST">2248535062</idno>
+  
+            <idno type="STC">Wing Q164</idno>
+            <idno type="STC">Interim Tract Supplement Guide 816.m.13[129]</idno>
+            <idno type="STC">Interim Tract Supplement Guide 816.m.13[130]</idno>
+            <idno type="STC">ESTC R225229</idno>
+            <idno type="PROQUEST">ocm99885957</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99885957e"/>
+            <note>(EEBO-TCP ; phase 2, no. B28608)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 186327)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C4:1[124]; C4:1[125])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Querical demonstrations, writ by Prince Butler, author of the eleven queries relating to the bill for prohibiting East-India silks and printed callicoes.</title>
+                  <author>Butler, Prince.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1699?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing.</note>
+                  <note>With a docket title.</note>
+                  <note>This item appears in two consecutive copies of the same edition filmed in sequence.</note>
+                  <note>Reproduction of the originals in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Textile industry --  England --  Early works to 1800.</term>
+               <term type="topical_term">East India Company --  Administration --  Early works to 1800.</term>
+               <term type="geographic_name">England and Wales --  Commerce --  India --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Maria Cecilia Caride </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Maria Cecilia Caride</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:186327:1"/>
+            <head>QUERICAL DEMONSTRATIONS, WRIT BY PRINCE BUTLER, Author of the Eleven QUERIES RELATING TO <hi>The BILL for prohibiting</hi> East-India <hi>Silks and Printed Callicoes.</hi>
+            </head>
+            <p>CAN any Man doubt my Truth and Sincerity? I am an <hi>East-India</hi> Merchant, and speak where my Interest is con<g ref="char:EOLhyphen"/>cern'd.</p>
+            <p>It is not as easie to demonstrate that the prohibiting the wear of <hi>East-India</hi> wrought Silks, <hi>&amp;c.</hi> is a prejudice to <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> as to make out that Account to be just and true, which was lately referr'd to the <hi>East-India</hi> Committee? and ought not this Bill to be hindred from passing, by the same honest Means, which few years since were used to ob<g ref="char:EOLhyphen"/>tain a Charter and Settlement?</p>
+            <p>Are not the Writers for the <hi>East-India</hi> Company to be believed? since in order to get it settled by Act of Parliament, they de<g ref="char:EOLhyphen"/>clared that Three parts in four of these <hi>East-India</hi> Silks Imported, were again Exported? and now, in order to destroy the Pro<g ref="char:EOLhyphen"/>hibition Bill, they own Three parts in four are consumed in <hi>England.</hi>
+            </p>
+            <p>Will not the Nation be ruin'd, if we prohibit the wear of <hi>East-India</hi> Silks? for then we shall wear our own Growth and Ma<g ref="char:EOLhyphen"/>nufacture, instead of Silks fetch'd in with our Money and Bullion.</p>
+            <p>Had not a Hundred thousand Poor rather come to their Parishes for want of Work, and all the Land of <hi>England</hi> fall two years Purchase; then that the Cook-Maids should not be cloathed in <hi>India</hi> Silks, and the Ladies in Callicoes?</p>
+            <p>Is not this Prohibition a <hi>French</hi> Invention, who neither understand not pursue their own Interest? what are they the better for incouraging Trade and their own Manufactures? and is not their Navigation of late years visibly decreased by it?</p>
+            <p>Will not this Prohibition be of great Advantage to the <hi>Dutch?</hi> for now we must go to Forreign Markets with these wrought Silks, as well as they.</p>
+            <p>Is it not demonstrable that this will be the making the <hi>Scotch East-India</hi> Company? because if the Bill pass they cannot Retail these Silks in <hi>England.</hi> Indeed the chief Subscribers are the greatest Sticklers against this Bill; but Merchants are often mistaken in point of Interest.</p>
+            <p>Is it not as plain that this is a Partial Bill, calculated for the Interest of <hi>Norwich</hi> and <hi>Canterbury?</hi> since except those Cities, there are only the Landed men concern'd; and in <hi>London, Exeter, Bristol,</hi> and the rest of <hi>England,</hi> there are not above Five hundred thousand People maintain'd by the Woollen and Silk Manufactures.</p>
+            <p>Is not the Imploying Two thousand Seamen in the <hi>India</hi> Trade (whereof above half perish in the Voyage) to be preferr'd to the Maintenance of such an inconsiderable number.</p>
+            <p>Since farthest fetch'd is most esteem'd, and they work in <hi>India</hi> for One penny a day, were it not for the Advantage, as well as the Satisfaction of <hi>England,</hi> to send all our Wooll thither to be Manufactur'd?</p>
+            <p>Were it not better the People of <hi>England</hi> were oblig'd to go Naked, rather than wear their own Manfufactures? for so they might send all their Cloths and Stuffs abroad, and bring the Ballance of Trade even.</p>
+            <p>But since that can't be done at the latter end of a Sessions, why not prohibit the <hi>Dutch</hi> and <hi>Italian</hi> Silks? for they are dearer than our Silks: and incourage the wearing <hi>East-India</hi> Silks? for they will even under-sell our Stuffs.</p>
+            <p>Why should not the Parliament, for the same reason, Repeal the Woollen Act, and oblige every Body to be buried in <hi>India Silks?</hi>
+            </p>
+            <p>What can make <hi>England</hi> more happy and merry than this <hi>East-India</hi> Trade will in time? which Exports so much of our Mo<g ref="char:EOLhyphen"/>ney to fetch Commodities only consum'd here? for <hi>Contabit vacum</hi> —</p>
+            <p>Do not the <hi>East-India</hi> Merchants know the Interest of the Nation better than the Country Gentlemen? have they not always preferr'd the Publick Good to private Gain? who can be a better Shepherd than the Wolf? (if he pleases) nay, than an <hi>East-India</hi> Trader? who will not only preserve your Sheep from being destroy'd, but will not let them be so much as fleec'd.</p>
+            <p>If the wear of <hi>East-India</hi> Silks, <hi>&amp;c.</hi> be prohibited, will not the <hi>Indians</hi> take it heinously ill? for they do not so much consider our buying these Commodities, as our wearing them. And unless we are clothed in their Silks, their Horses and Elephants will not be willing to wear our Broad-cloth.</p>
+            <p>If the Soldiers Wives are not in <hi>India</hi> Silks, Where shall their Husbands get Gun-powder? the <hi>Indians</hi> will let us have no Salt<g ref="char:EOLhyphen"/>petre. For a Trader, when he cannot sell what Commodity he pleases, will starve before he will sell any other.</p>
+            <p>Has not the Price of Land visibly Advanced for these Thirty years last past, which is about the time first Imported these Manufactures? and for these last Two years, that few or none have been Imported, are not Rents worse paid, and Wooll become a Drug?</p>
+            <p>Which Mercer lives best, and is most likely to thrive? he who Clothes his Family in the richest Silks? or he who plays the fool and cells them, turns the Penny, and makes his Wife and Children wear Woollen?</p>
+            <p>Is not this Prohibition a manifest Injury to that vast number of Gentlemen's Sons bound Apprentices to Linnen Drapers? since that Trade only consists in selling <hi>India</hi> Silks and Cottons, and has done so for these many Hundred years before these Goods were known?</p>
+            <p>Will not the Customs considerably abate if this Prohibition pass? for these very Commodities have raised above Ten thousand pounds within these Seven years, and therefore ought to be continued, though to the prejudice of Land. For pray, what has Land furnish'd towards carrying on of the War?</p>
+            <p>Is it not apparent this Prohibition Bill is defective, and will not answer the ends proposed by the Landed-men and <hi>English</hi> Manufactures? For are not the <hi>India</hi> Merchants more solicitous to hinder the passing this Bill, then to forward the passing their own Settlement?</p>
+            <p>Lastly, If this Bill should pass, it may put the Parliament in the mind of making another Act, for the Incouragement of our own Woollen and Silk Manufactures, That no Silks shall hereafter be Imported, but such as come in Return of our Products and Manufactures, would not such an Act exasperate the <hi>French?</hi> who only Import Silks in Return of Money, and be of dangerous Consequence?</p>
+         </div>
+      </body>
+      <back>
+         <div type="docket_title">
+            <pb facs="tcp:186327:2"/>
+            <p>Querical Demonstrations, <hi>Writ by</hi> Prince BUTLER, Author of the Eleven QUERIES Relating to the <hi>BILL</hi> for pro<g ref="char:EOLhyphen"/>hibiting <hi>East-India</hi> Silks and Printed Callicoes.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
